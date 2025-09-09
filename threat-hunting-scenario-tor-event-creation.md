@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Nadezna Morris
-- **Author Contact**: https://www.linkedin.com/in//
+- **Author Contact**: https://www.linkedin.com/in/nadezna-morris-ba095721b/
 - **Date**: September 4, 2025
 
 ## Validated By:
